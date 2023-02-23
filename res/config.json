@@ -1,0 +1,17 @@
+{
+  "general": {
+    "status-bar": true,
+    "current-line": true,
+    "zoom-enable": true,
+    "spelling-enable": true
+  },
+  "interface": {
+    "lang": "English (en)",
+    "theme": "System",
+    "font": "Consolas"
+  },
+  "other": {
+    "backup": "60s",
+    "search": "Google"
+  }
+}
